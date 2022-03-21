@@ -1,0 +1,19 @@
+#segundo {
+    color: rgb(23, 26, 197);
+    font-size: 36px;
+}
+
+#cuarto {
+    background-color: rgb(90, 230, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pinky {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(238, 134, 151)
+}
+
+.big {
+    font-size: 24px;
+}
